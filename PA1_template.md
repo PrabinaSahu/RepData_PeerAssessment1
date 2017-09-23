@@ -1,4 +1,4 @@
-![](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
+﻿![]
 
 Introduction
 ============

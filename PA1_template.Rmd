@@ -1,12 +1,4 @@
-﻿---
-title: "Reproducible Research - Course Project 1"
-author: "prabinasahu"
-date: "September 23, 2017"
-output: md_document
-keep_md: yes
----
-
-![](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
+﻿
 
 # Introduction
 
